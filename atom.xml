@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zaharidichev.github.io/atom.xml" rel="self"/>
   <link href="http://zaharidichev.github.io/"/>
-  <updated>2013-05-23T13:59:41-04:00</updated>
+  <updated>2013-05-23T14:08:41-04:00</updated>
   <id>http://zaharidichev.github.io/</id>
   <author>
     <name><![CDATA[Zahari Dichev]]></name>
@@ -14,18 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Post With Octopress]]></title>
+    <title type="html"><![CDATA[First post with octopress]]></title>
     <link href="http://zaharidichev.github.io/blog/2013/05/23/first-post-with-octopress/"/>
-    <updated>2013-05-23T00:00:00-04:00</updated>
+    <updated>2013-05-23T13:56:00-04:00</updated>
     <id>http://zaharidichev.github.io/blog/2013/05/23/first-post-with-octopress</id>
-    <content type="html"><![CDATA[<h2>This sort of is the first dry run for a post.</h2>
-
-<p>layout: post
-title: &ldquo;First post with octopress&rdquo;
-date: 2013-05-23 13:56
-comments: false</p>
-
-<h2>categories: </h2>
+    <content type="html"><![CDATA[<p>So here we go&hellip;</p>
 ]]></content>
   </entry>
   
