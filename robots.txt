@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://zaharidichev.github.io/sitemap.xml 
